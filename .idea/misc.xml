@@ -4,7 +4,7 @@
     <option name="sdkName" value="Python 3.13" />
   </component>
   <component name="JavadocGenerationManager">
-    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/Labs/Lab3" />
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/Assignment1" />
   </component>
   <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.13" project-jdk-type="Python SDK">
     <output url="file://$PROJECT_DIR$/out" />

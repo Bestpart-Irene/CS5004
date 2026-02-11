@@ -1,11 +1,11 @@
 package chess;
 
-public abstract class ChessPiece implements ChessPieceContract {
+public abstract class ChessPiece implements chess.ChessPieceContract {
     protected int row;
     protected int column;
     protected Color color;
 
-    public ChessPiece(int row, int column, Color color) {
+    public ChessPiece(int row, int column, chess.Color color) {
         if (row < 0 || row > 7 || column < 0 || column > 7) {
             throw new IllegalArgumentException("Position must be within 0-7 for both row and column");
         }

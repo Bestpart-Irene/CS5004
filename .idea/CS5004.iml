@@ -11,6 +11,8 @@
       <sourceFolder url="file://$MODULE_DIR$/Assignment1/test" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/Assignment2/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Assignment2/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Labs/ lab4/src/main" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Labs/ lab4/src/test" isTestSource="true" />
     </content>
     <orderEntry type="jdk" jdkName="25" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />

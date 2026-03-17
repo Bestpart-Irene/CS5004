@@ -1,1 +1,6 @@
 out/
+.DS_Store
+doc/
+*.DS_Store
+.claude/worktrees/
+final project/

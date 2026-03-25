@@ -4,3 +4,7 @@ doc/
 *.DS_Store
 .claude/worktrees/
 final project/
+build/
+.gradle/
+*.class
+javadoc/
